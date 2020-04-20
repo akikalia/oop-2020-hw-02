@@ -13,7 +13,7 @@ public class JBrainTetris extends JTetris{
 
 
     //controls
-    protected JCheckBox brainMode;
+    static protected JCheckBox brainMode;
     protected JSlider adversary;
     protected JLabel advStatus;
 
